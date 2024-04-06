@@ -1,0 +1,2 @@
+2024-04-04T11:22:26+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count a été appelé mais aucun type de commande n’a été enregistré : il a peut-être été appelé trop tôt.
+2024-04-04T11:25:18+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count a été appelé mais aucun type de commande n’a été enregistré : il a peut-être été appelé trop tôt.

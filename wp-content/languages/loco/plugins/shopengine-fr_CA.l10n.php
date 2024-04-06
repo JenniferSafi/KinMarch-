@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'ShopEngine 4.6.3','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/shopengine','pot-creation-date'=>'2024-03-31 09:20:19+00:00','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','po-revision-date'=>'2024-04-05 13:47+0000','last-translator'=>'','language-team'=>'Français du Canada','x-generator'=>'Loco https://localise.biz/','language'=>'fr_CA','plural-forms'=>'nplurals=2; plural=n > 1;','x-loco-version'=>'2.6.7; wp-6.5','messages'=>['Product'=>'produits']];
